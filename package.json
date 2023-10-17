@@ -1,0 +1,19 @@
+{
+  "name": "@bad-software/streams",
+  "version": "0.1.1",
+  "description": "Streams and stream accessories",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "ospec"
+  },
+  "devDependencies": {
+    "@bad-software/eslint-config": "^0.3.1",
+    "eslint": "^8.33.0",
+    "eslint-plugin-jsdoc": "^39.7.5",
+    "eslint-plugin-promise": "^6.1.1",
+    "ospec": "^4.1.7"
+  },
+  "packageManager": "yarn@3.6.4"
+}
